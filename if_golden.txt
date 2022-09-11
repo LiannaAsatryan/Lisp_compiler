@@ -1,0 +1,5 @@
+FALSE
+YES
+OK
+a is 5
+answer is 5 * 5 is 25

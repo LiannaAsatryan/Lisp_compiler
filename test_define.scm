@@ -1,0 +1,7 @@
+(define a 2)
+(display a) (newline)
+(define b "Hello!")
+(display b) (newline)
+(define c (+ 4 -1))
+(display c) (newline)
+(display (if (> 5 4) 4 10)) (newline)
